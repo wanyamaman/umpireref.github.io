@@ -1,0 +1,61 @@
+#u100-5
+{
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-size: 30px;
+	text-align: left;
+	line-height: 36px;
+	background-color: transparent;
+	font-weight: 500;
+}
+
+#u100
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+}
+
+#u100-2
+{
+	color: #C1272D;
+	font-weight: 300;
+	font-family: open-sans, sans-serif;
+}
+
+#u253
+{
+	background: transparent url("../images/playstore.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u264
+{
+	background: transparent url("../images/app_store_badge.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u3652,#u242
+{
+	background-color: transparent;
+	border-color: transparent;
+	border-width: 0px;
+}
+
+#u247-4,#u114-4
+{
+	font-weight: 300;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
