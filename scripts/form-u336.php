@@ -26,8 +26,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'wanyamamedia@gmail.com',
-		'to' => 'wanyamamedia@gmail.com'
+		'from' => 'info@umpireref.com',
+		'to' => 'info@umpireref.com'
 	),
 	'recaptcha' => array(
 		'private_key' => '6LfPQCQTAAAAALI2CV_Cb37PLD3-PVLaf4swtWDx'

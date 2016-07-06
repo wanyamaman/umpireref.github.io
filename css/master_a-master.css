@@ -1,12 +1,12 @@
 #u100-5
 {
-	font-family: ubuntu, sans-serif;
 	color: #FFFFFF;
-	line-height: 36px;
-	text-align: left;
-	font-weight: 500;
+	font-family: ubuntu, sans-serif;
 	font-size: 30px;
+	text-align: left;
+	line-height: 36px;
 	background-color: transparent;
+	font-weight: 500;
 }
 
 #u100
@@ -17,9 +17,9 @@
 
 #u100-2
 {
-	font-family: open-sans, sans-serif;
 	color: #C1272D;
 	font-weight: 300;
+	font-family: open-sans, sans-serif;
 }
 
 #u253
@@ -30,79 +30,32 @@
 
 #u264
 {
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-color: transparent;
+	background: transparent url("../images/app_store_badge.png") no-repeat center center;
 	background-size: contain;
 }
 
-#u275,#u242
+#u3652,#u242
 {
+	background-color: transparent;
 	border-color: transparent;
 	border-width: 0px;
-	background-color: transparent;
 }
 
 #u247-4,#u114-4
 {
-	font-family: open-sans, sans-serif;
+	font-weight: 300;
 	color: #FFFFFF;
 	text-align: center;
-	font-weight: 300;
 	background-color: transparent;
+	font-family: open-sans, sans-serif;
 }
 
-@media (min-width: 875px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge.png");
-	}
 
-}
 
-@media (min-width: 769px) and (max-width: 874px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge.png");
-	}
 
-}
 
-@media (min-width: 715px) and (max-width: 768px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge.png");
-	}
 
-}
 
-@media (min-width: 481px) and (max-width: 714px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge-u264-fr.png");
-	}
 
-}
 
-@media (min-width: 321px) and (max-width: 480px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge.png");
-	}
-
-}
-
-@media (max-width: 320px)
-{
-	#u264
-	{
-		background-image: url("../images/app_store_badge.png");
-	}
-
-}
 
