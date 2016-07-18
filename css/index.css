@@ -481,7 +481,7 @@
 
 #u351-4
 {
-	color: #FF0000;
+	color: #39B54A;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	line-height: 14px;
@@ -499,7 +499,7 @@
 {
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	background-color: #C1272D;
+	background-color: #39B54A;
 	opacity: 1;
 }
 
@@ -5462,6 +5462,7 @@ body
 	#widgetu336.frm-subm-err-st #u351-4
 	{
 		min-height: 32px;
+		color: #39B54A !important;
 	}
 
 	#u341-4
